@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "4db5648c5407b5b7ac1fab85",
+  "owner": "mbhpfdkpa",
+  "repo": "page-b10552f7a845f21ba3f3f189",
+  "title": "初落",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b10552f7a845f21ba3f3f189",
+      "a": "初落",
+      "b": "机场官网线路发布页",
+      "entity": "初落",
+      "brand": "初落",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f9eaee6f2bcc436cc58f88508ee314acf2b867da0e402d6b8fc9f8ecbd7da758",
+      "content": {
+        "primary_entity": "初落",
+        "keyword1": "初落",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，手机、电脑与路由器各有匹配的订阅方式。",
+          "AI_CLIENTS_TITLE": "客户端适配选择",
+          "AI_CLOSING_TEXT": "先确认设备数量和常用地区，再对照套餐流量选择合适档位。",
+          "AI_CLOSING_TITLE": "选对套餐再开始",
+          "AI_DESCRIPTION": "，面向需要稳定海外线路的用户，初落提供基础版、旗舰版与团队版三档订阅。基础版每月100GB流量、支持3台设备；旗舰版每月300GB、支持5台设备并带IPLC专线游戏加速；团队版每月1000GB、支持20台设备与VIP高带宽节点。按月或按年付费均可，按年付更划算。",
+          "AI_FAQ_ANSWER_1": "基础版适合3台以内设备、每月100GB流量；旗舰版适合5台设备、300GB流量并需要游戏加速；团队版支持20台设备和1000GB流量，适合多人共享。",
+          "AI_FAQ_ANSWER_2": "基础版和团队版支持3台与20台设备同时在线，旗舰版支持5台。同一账号在多设备登录时，请确认不超过所选套餐的设备上限。",
+          "AI_FAQ_ANSWER_3": "可以。基础版按年付¥150/年，旗舰版¥350/年，团队版¥850/年，比按月付费更划算，适合长期稳定使用。",
+          "AI_FAQ_ANSWER_4": "旗舰版包含全节点原生流媒体解锁和IPLC专线游戏加速优化，团队版提供VIP专属高带宽节点，基础版支持基础流媒体解锁。",
+          "AI_FAQ_ANSWER_5": "选择套餐后获取订阅链接，在首页或客户端文档查看对应设备的导入步骤。手机、电脑和路由器客户端配置方式不同，请按设备类型操作。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版怎么选？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_3": "按年付和按月付有什么区别？",
+          "AI_FAQ_QUESTION_4": "套餐是否支持流媒体和游戏加速？",
+          "AI_FAQ_QUESTION_5": "订阅如何导入到不同客户端？",
+          "AI_FAQ_TITLE": "套餐与使用常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备和线路三个角度对比初落订阅。",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB适合单人轻量使用；旗舰版300GB满足日常影音与游戏；团队版1000GB适合小型团队共享。",
+          "AI_FEATURE_TEXT_2": "基础版3台、旗舰版5台、团队版20台同时在线，按常用手机、电脑与平板数量选择对应档位。",
+          "AI_FEATURE_TEXT_3": "按年付可减少续费频率，基础版¥150/年、旗舰版¥350/年、团队版¥850/年，长期使用更省心。",
+          "AI_FEATURE_TITLE_1": "按流量与人数选档",
+          "AI_FEATURE_TITLE_2": "按设备数量匹配",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到客户端配置的流程。",
+          "AI_GUIDE_TITLE": "使用流程",
+          "AI_HERO_INTRO": "初落提供基础版、旗舰版与团队版三档订阅，覆盖100GB到1000GB月流量，支持3到20台设备同时在线，按年付更划算。",
+          "AI_HERO_SUBTITLE": "初落订阅，按需选择套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖轻量到团队使用",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线游戏加速",
+          "AI_HIGHLIGHT_3": "支持按月或按年灵活付费",
+          "AI_PLANS_INTRO": "对比基础版、旗舰版和团队版的流量、设备数与年付价格。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量和每月流量需求，在基础版、旗舰版与团队版之间选择合适档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备上限、流媒体解锁和线路说明，确认是否满足日常使用场景。",
+          "AI_STEP_TEXT_3": "按客户端文档中对应设备的说明导入订阅，完成手机、电脑或路由器上的配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "初落订阅套餐"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "dqcgnxl.cn",
+    "host": "dqcgnxl.cn"
+  },
+  "file_hashes": {
+    "index.html": "cf359292ca2ade0c62b741fa3443f0de34e4c3aa041b9f257a91325977bc9e76",
+    "sitemap.xml": "55efae4dc889b35f9d500433162ccd920f355eb551ab3ea7b7c57e1e8925d560",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9792a0071e0b289dc1ab9a4e92bb4738c1d3a02eca0f8cfae87d45891f25be2e",
+    "robots.txt": "61abdff5851a2af978e9626779f729b6a2c0eb0dec3d036480985337ed40ae37",
+    "49fef6abe026a936989585f8ffcc420f.txt": "e03fdea489f1ed384d78565e294569ffa5d97681ad4257e436c34f5187013ecc"
+  },
+  "revision": "22329c102ee5c107636e0e6a93c0d4689eb0ac484dd80677c3e6480459f5e661"
+}
